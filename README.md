@@ -1,16 +1,16 @@
 # ForumHub
 
 ## Descrição
-    Projeto criado como um challenger da formação spring para a turma do ONE (oracle next education)
+ -   Projeto criado como um challenger da formação spring para a turma do ONE T6 (oracle next education)
 
 ## Dependências
-    [ ] Necessario possuir o Java instalado
-    [ ] Necessario possuir o Mysql instalado
+   - [ ] Necessario possuir o Java instalado
+   - [ ] Necessario possuir o Mysql instalado
 
 ## Tecnologias utilizadas
-    [ ] Java 17
-    [ ] Spring boot 3.3.0
-    [ ] Mysql
+  -  [ ] Java 17
+  -  [ ] Spring boot 3.3.0
+  -  [ ] Mysql
 
 ## Como utilizar
 
